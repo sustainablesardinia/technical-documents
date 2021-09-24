@@ -2,33 +2,34 @@
 
 **Project owner:** _Name_
 
-<pre>
 
-</pre>
-## Objective
+**Table of contents:**
 
-### What's the project's objective?
+[Description of the problem](#description)
 
-### How does the project fit into the Initiative's aims?
+## Description of the problem
+-----------------------------
 
-<pre>
+> “Do not propose solutions until the problem has been discussed as thoroughly
+> as possible without suggesting any.”
+>
+> -- Norman R. F. Maier
 
-</pre>
+### Describe the problem
+
+### What are the consequences of this problem?
+
+### How does solving the problem fit into the Initiative's aims?
+
+
+
+
 ## Requirements
+---------------
+
+### What is the objective of the project?
 
 ### Who is going to use this project? 
-
-| User          | What they're trying to do     | The problem they're having    |
-|---------------|-------------------------------|-------------------------------|
-| _User 1_      |                               |                               |
-| _User 2_      |                               |                               |
-
-### How is this project going to address the user's problems?
-
-| User problem          | How this project is going to address it   |
-|-----------------------|-------------------------------------------|
-| _P1_                  |                                           |
-| _P2_                  |                                           |
 
 ### Engineering requirements
 
@@ -40,10 +41,11 @@
 
 _Space for further requirements_
 
-<pre>
 
-</pre>
-## Project development
+
+
+## Project description
+---------------------
 
 ### How does the project work? How is it organised?
 
@@ -67,12 +69,11 @@ _Please give an estimate of the impact of your project in terms of emissions_
 
 ### How can the project's success be measured?
 
-### What licenses
 
-<pre>
 
-</pre>
+
 ## Using the project 
+--------------------
 
 ### How is the project expected to be used?
 
