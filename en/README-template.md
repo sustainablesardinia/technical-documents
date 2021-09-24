@@ -5,47 +5,35 @@
 
 **Table of contents:**
 
-[Description of the problem](#description)
+1. Description of the problem
+2. Consequences of the problem
+3. Statement of the solution
+4. Consequences of the solution
+5. Using the 
 
-## Description of the problem
------------------------------
+
+-------------------------------------------------------------------------------
+## 1. Description of the problem
 
 > “Do not propose solutions until the problem has been discussed as thoroughly
 > as possible without suggesting any.”
 >
 > -- Norman R. F. Maier
 
-### Describe the problem
+_Describe the problem here. You can use charts and images, but you should focus
+on the problem, not the solution._
 
-### What are the consequences of this problem?
+
+-------------------------------------------------------------------------------
+## 2. Consequences of the problem
+
+### What are the current (or predicted) consequences of the problem?
 
 ### How does solving the problem fit into the Initiative's aims?
 
 
-
-
-## Requirements
----------------
-
-### What is the objective of the project?
-
-### Who is going to use this project? 
-
-### Engineering requirements
-
-#### Are there specific requirements about the availability of the project?
-
-#### Does the project require a minimum performance/speed?
-
-### Other requirements
-
-_Space for further requirements_
-
-
-
-
-## Project description
----------------------
+-------------------------------------------------------------------------------
+## 3. Statement of the solution
 
 ### How does the project work? How is it organised?
 
@@ -63,18 +51,23 @@ _Technologies, use of servers, ..._
 
 #### Environment resources 
 
-_Please give an estimate of the impact of your project in terms of emissions_
+_Please give an estimate of the impact of your project in terms of emissions._
 
 ### How is the project going to be tested?
 
-### How can the project's success be measured?
+_Provide as many details as possible._
+
+-------------------------------------------------------------------------------
+## 4. Consequences of the solution 
+
+### What are the current (or predicted) consequences of the solution?
+
+### How can the solution's success be measured?
 
 
+-------------------------------------------------------------------------------
+## 5. Usage guide
 
-
-## Using the project 
---------------------
-
-### How is the project expected to be used?
+### How is this project expected to be used/accessed?
 
 _If possible, provide some steps to guide a prospective user or tester_
