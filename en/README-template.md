@@ -9,7 +9,7 @@
 2. Consequences of the problem
 3. Statement of the solution
 4. Consequences of the solution
-5. Using the 
+5. Usage guide
 
 
 -------------------------------------------------------------------------------
