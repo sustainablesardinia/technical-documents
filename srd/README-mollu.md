@@ -29,7 +29,7 @@ cuncentrai asuba de su barrancu, no sa solutzioni._
 
 ### Cali funt is conseguèntzias de imoi (o chi s' obetais) de su barrancu?
 
-### Arresolvi su barrancu s' arrelatat cun is tareas de s' Abrètiu?
+### Arresolvi su barrancu s' arrelatat cun is tareas de sa Faina?
 
 -------------------------------------------------------------------------------
 ## 3. Arrelata de sa solutzioni
