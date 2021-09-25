@@ -35,11 +35,11 @@ on the problem, not the solution._
 -------------------------------------------------------------------------------
 ## 3. Statement of the solution
 
-### How does the project work? How is it organised?
+### How does the solution work? How is it organised?
 
 _Use a block diagram, but keep it simple and clear. No UML needed here._
 
-### What resources are required to carry out the project?
+### What resources are required to carry out the solution?
 
 #### Human resources 
 
@@ -51,9 +51,9 @@ _Technologies, use of servers, ..._
 
 #### Environment resources 
 
-_Please give an estimate of the impact of your project in terms of emissions._
+_Please give an estimate of the impact of your solution in terms of emissions._
 
-### How is the project going to be tested?
+### How is the solution going to be tested?
 
 _Provide as many details as possible._
 
