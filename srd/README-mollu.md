@@ -5,31 +5,31 @@
 
 **Cuntènniu:**
 
-1. Descridura de su barrancu
-2. Conseguèntzias de su barrancu
+1. Descridura de su problema
+2. Conseguèntzias de su problema
 3. Arrelata de sa solutzioni
 4. Conseguèntzias de sa solutzioni
 5. Ghia a s' imperu
 
 
 -------------------------------------------------------------------------------
-## 1. Descridura de su barrancu
+## 1. Descridura de su problema
 
-> “No propongastis solutzionis finsas a candu de su barrancu no nd' estis
+> “No propongastis solutzionis finsas a candu de su problema no nd' estis
 > chistionau de manera sa prus cumpria chi fait chena de inditai nimancu una.”
 >
 > -- Norman R. F. Maier
 
-_Descriei su barrancu innoi. Podeis imperai gràficus e màginis, ma si depeis
-cuncentrai asuba de su barrancu, no sa solutzioni._
+_Descriei su problema innoi. Podeis imperai gràficus e màginis, ma si depeis
+cuncentrai asuba de su problema, no sa solutzioni._
 
 
 -------------------------------------------------------------------------------
-## 2. Conseguèntzias de su barrancu
+## 2. Conseguèntzias de su problema
 
-### Cali funt is conseguèntzias de imoi (o chi s' obetais) de su barrancu?
+### Cali funt is conseguèntzias de imoi (o chi s' obetais) de su problema?
 
-### Arresolvi su barrancu s' arrelatat cun is tareas de sa Faina?
+### Arresolvi su problema s' arrelatat cun is tareas de sa Faina?
 
 -------------------------------------------------------------------------------
 ## 3. Arrelata de sa solutzioni
