@@ -14,14 +14,15 @@
 
 -------------------------------------------------------------------------------
 ## 1. Descridura de su problema
-
+<!--
 > “No propongastis solutzionis finsas a candu de su problema no nd' estis
 > chistionau de manera sa prus cumpria chi fait chena de inditai nimancu una.”
 >
 > -- Norman R. F. Maier
 
-_Descriei su problema innoi. Podeis imperai gràficus e màginis, ma si depeis
-cuncentrai asuba de su problema, no sa solutzioni._
+Descriei su problema innoi. Podeis imperai gràficus e màginis, ma si depeis
+cuncentrai asuba de su problema, no sa solutzioni.
+-->
 
 
 -------------------------------------------------------------------------------
@@ -35,27 +36,22 @@ cuncentrai asuba de su problema, no sa solutzioni._
 ## 3. Arrelata de sa solutzioni
 
 ### Comenti traballat sa solutzioni? Comenti est fata?
-
-_Imperai unu gràficu a brocus, ma fai-ddu simpli e craru. No nc' at abisòngiu de
-imperai UML._
+<!-- Imperai unu gràficu a brocus, ma fai-ddu simpli e craru. No nc' at abisòngiu de
+imperai UML. -->
 
 ### Cali arresorsas serbint po aprontai sa solutzioni?
 
 #### Arresorsas de personis
-
-_Òmini annus po su svilupu, prova, mantennimentu..._
+<!-- Òmini annus po su svilupu, prova, mantennimentu... -->
 
 #### Arresorsas de computadora
-
-_Tennologias, imperu de server, ..._
+<!-- Tennologias, imperu de server, ... -->
 
 #### Arresorsas de su logu
-
-_Donai un' apretziadura de s' impestu chi portat sa solutzioni bosta_
+<!-- Donai un' apretziadura de s' impestu chi portat sa solutzioni bosta -->
 
 ### Comenti dd' estis a provai su progetu?
-
-_Bogai is prus pinnicas piticas chi podeis._
+<!-- Bogai is prus pinnicas piticas chi podeis. -->
 
 -------------------------------------------------------------------------------
 ## 4. Conseguèntzias de sa solutzioni 
@@ -69,5 +65,7 @@ _Bogai is prus pinnicas piticas chi podeis._
 ## 5. Ghia a s' imperu
 
 ### Comenti si depit imperai/otenni custu progetu?
+<!-- Chi fait, donai atopus po ghiai unu utenti nou o unu provadori -->
 
-_Chi fait, donai atopus po ghiai unu utenti nou o unu provadori_
+-------------------------------------------------------------------------------
+### Arriferimentus

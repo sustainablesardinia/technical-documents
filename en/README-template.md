@@ -15,13 +15,15 @@
 -------------------------------------------------------------------------------
 ## 1. Description of the problem
 
+<!--
 > “Do not propose solutions until the problem has been discussed as thoroughly
 > as possible without suggesting any.”
 >
 > -- Norman R. F. Maier
 
-_Describe the problem here. You can use charts and images, but you should focus
-on the problem, not the solution._
+Describe the problem here. You can use charts and images, but you should focus
+on the problem, not the solution.
+ -->
 
 
 -------------------------------------------------------------------------------
@@ -36,26 +38,21 @@ on the problem, not the solution._
 ## 3. Statement of the solution
 
 ### How does the solution work? How is it organised?
-
-_Use a block diagram, but keep it simple and clear. No UML needed here._
+<!-- Use a block diagram, but keep it simple and clear. No UML needed here. -->
 
 ### What resources are required to carry out the solution?
 
 #### Human resources 
-
-_Man years for development, testing, maintenance, ..._
+<!-- Man years for development, testing, maintenance, ... -->
 
 #### Computing resources 
-
-_Technologies, use of servers, ..._
+<!-- Technologies, use of servers, .... -->
 
 #### Environment resources 
-
-_Please give an estimate of the impact of your solution in terms of emissions._
+<!-- Please give an estimate of the impact of your solution in terms of emissions. -->
 
 ### How is the solution going to be tested?
-
-_Provide as many details as possible._
+<!-- Provide as many details as possible. -->
 
 -------------------------------------------------------------------------------
 ## 4. Consequences of the solution 
@@ -69,5 +66,8 @@ _Provide as many details as possible._
 ## 5. Usage guide
 
 ### How is this project expected to be used/accessed?
+<!-- If possible, provide some steps to guide a prospective user or tester -->
 
-_If possible, provide some steps to guide a prospective user or tester_
+
+-------------------------------------------------------------------------------
+### References
