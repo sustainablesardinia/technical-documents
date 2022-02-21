@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/sustainablesardinia/manifesto/raw/master/logo-with-name-small.png" alt="logo-small" width="100px" border="0">
+</p>
+
 # _Project title_
 
 **Project owner:** _Name_
@@ -23,7 +27,7 @@
 
 Describe the problem here. You can use charts and images, but you should focus
 on the problem, not the solution.
- -->
+-->
 
 
 -------------------------------------------------------------------------------

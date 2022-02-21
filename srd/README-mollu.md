@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/sustainablesardinia/manifesto/raw/master/logo-with-name-small.png" alt="logo-small" width="100px" border="0">
+</p>
+
 # _Tìtulu de su progetu_
 
 **Coordinadori/a de su progetu:** _Nòmini_
