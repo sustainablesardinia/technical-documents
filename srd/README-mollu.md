@@ -34,7 +34,7 @@ cuncentrai asuba de su problema, no sa solutzioni.
 
 ### Cali funt is conseguèntzias de imoi (o chi s' obetais) de su problema?
 
-### Arresolvi su problema s' arrelatat cun is tareas de sa Faina?
+### Arresolvi su problema s' arrelatat cun is tareas de Sustainable Sardinia?
 
 -------------------------------------------------------------------------------
 ## 3. Arrelata de sa solutzioni
