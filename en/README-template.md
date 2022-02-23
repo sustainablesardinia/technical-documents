@@ -35,7 +35,7 @@ on the problem, not the solution.
 
 ### What are the current (or predicted) consequences of the problem?
 
-### How does solving the problem fit into the Initiative's aims?
+### How does solving the problem fit into Sustainable Sardinia's aims?
 
 
 -------------------------------------------------------------------------------
